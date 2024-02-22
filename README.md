@@ -1,6 +1,6 @@
 [Run the code online](https://colab.research.google.com/drive/1MJx-98ScB0Tk9KQV9VEfu5FqBVl2kksp)
 
-This paper presents a box-model simulation, implemented in Python, to analyze the concentration of δ¹³C in the Atmosphere, Biosphere, and upper Ocean. Model parameterization was achieved through a statistical comparison of the root mean square error (RMSE) between modeled data and available measurements. Findings indicate a constant fixed difference of **9.19‰** between the δ¹³C of the atmosphere and the ocean surface, confirming an estimated annual flux of about 110 petagram of carbon a year ($PgC/year$) between these two reservoirs.
+This paper presents a box-model simulation, implemented in Python, to analyze the concentration of δ¹³C in the Atmosphere, Biosphere, and upper Ocean. Model parameterization was achieved through a statistical comparison of the root mean square error (RMSE) between modeled data and available measurements. Findings indicate a constant fixed difference of **9.43‰** between the δ¹³C of the atmosphere and the ocean surface, confirming an estimated annual flux of about 110 petagram of carbon a year ($PgC/year$) between these two reservoirs.
 
 A linear regression analysis yielded a simple equation relating the oceanic carbon sink to the annual
 
